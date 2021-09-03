@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GergesGhaly/react-note-app-Ytub-tut.git/static/css/main.24e0abb1.chunk.css",
+    "main.js": "/GergesGhaly/react-note-app-Ytub-tut.git/static/js/main.776d84c4.chunk.js",
+    "main.js.map": "/GergesGhaly/react-note-app-Ytub-tut.git/static/js/main.776d84c4.chunk.js.map",
+    "runtime-main.js": "/GergesGhaly/react-note-app-Ytub-tut.git/static/js/runtime-main.0028fda5.js",
+    "runtime-main.js.map": "/GergesGhaly/react-note-app-Ytub-tut.git/static/js/runtime-main.0028fda5.js.map",
+    "static/js/2.79eac8da.chunk.js": "/GergesGhaly/react-note-app-Ytub-tut.git/static/js/2.79eac8da.chunk.js",
+    "static/js/2.79eac8da.chunk.js.map": "/GergesGhaly/react-note-app-Ytub-tut.git/static/js/2.79eac8da.chunk.js.map",
+    "static/js/3.06dd007f.chunk.js": "/GergesGhaly/react-note-app-Ytub-tut.git/static/js/3.06dd007f.chunk.js",
+    "static/js/3.06dd007f.chunk.js.map": "/GergesGhaly/react-note-app-Ytub-tut.git/static/js/3.06dd007f.chunk.js.map",
+    "index.html": "/GergesGhaly/react-note-app-Ytub-tut.git/index.html",
+    "static/css/main.24e0abb1.chunk.css.map": "/GergesGhaly/react-note-app-Ytub-tut.git/static/css/main.24e0abb1.chunk.css.map",
+    "static/js/2.79eac8da.chunk.js.LICENSE.txt": "/GergesGhaly/react-note-app-Ytub-tut.git/static/js/2.79eac8da.chunk.js.LICENSE.txt",
+    "static/media/download (1).be43946c.png": "/GergesGhaly/react-note-app-Ytub-tut.git/static/media/download (1).be43946c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0028fda5.js",
+    "static/js/2.79eac8da.chunk.js",
+    "static/css/main.24e0abb1.chunk.css",
+    "static/js/main.776d84c4.chunk.js"
+  ]
+}
